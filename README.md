@@ -13,8 +13,8 @@
 | Certificate | Institute | Date |
 | :--- | :--- | :--- |
 | [AWS Clean Rooms](./Certificates/AWS_Clean_Rooms.pdf) | **AWS** | April 2026 |
-| [English Flyers (A2)](./Certificates/English_Flyers.png) | Udemy | April 2026 |
-| [Excel in an Hour](./Certificates/Excel_Cert.png) | GoSkills | April 2026 |
+| [English Flyers (A2)](./Certificates/English_Flyers.jpng) | Udemy | April 2026 |
+| [Excel in an Hour](./Certificates/Excel_Cert.pdf) | GoSkills | April 2026 |
 
 ### 🛠️ Hands-on Progress
 - [🐧 Linux Cheat Sheet](./Linux-Foundations/CheatSheet.md) - *Documenting commands as I learn them.*
