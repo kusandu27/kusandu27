@@ -19,7 +19,7 @@
 ### 🛠️ Hands-on Progress & Extra Learning
 *I am currently exploring more topics beyond my initial plan. Progress is documented below:*
 
-- [🐧 Linux Cheat Sheet](./Linux-Foundations/CheatSheet.md) - *Updating as I complete my current course.*
+- [🐧 Linux Cheat Sheet](./Linux/CheatSheet.md) - *Updating as I complete my current course.*
 - [🔐 Security Labs](./Security-Labs/MFA-Setup.md) - *Lab notes for MFA and IAM configurations.*
 - 📚 **Extra Courses:** [Course Name 1], [Course Name 2] (In Progress)
 
