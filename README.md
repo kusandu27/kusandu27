@@ -17,12 +17,19 @@
 | [Excel in an Hour](./Certificates/Excel_Cert.pdf) | GoSkills | April 2026 |
 
 ### 🛠️ Hands-on Progress & Extra Learning
-*I am currently exploring more topics beyond my initial plan. Progress is documented below:*
+- [🐧 Linux & Scripting](./Linux/CheatSheet.md) - *Foundations, Advanced (SLIIT), and Bash Automation.*
+- [🔐 Security Labs](./Security-Labs/MFA-Setup.md) - *Cloud Security, MFA, and "Zero Trust" projects.*
+- [🌐 Networking](./Networking/Labs.md) - *NVQ Level 4, CCNA Packet Tracer labs, and Firewalls.*
+- [🐍 Automation & Code](./Automation/Python-Boto3.md) - *Python (Boto3) scripts and Terraform (IaC).*
 
-- [🐧 Linux Cheat Sheet](./Linux/CheatSheet.md) - *Updating as I complete my current course.*
-- [🔐 Security Labs](./Security-Labs/MFA-Setup.md) - *Lab notes for MFA and IAM configurations.*
-- 📚 **Extra Courses:** [Course Name 1], [Course Name 2] (In Progress)
 
+
+### 🎯 Learning Goals
+*I am currently building a deep foundation in Cloud Security with a focus on Defense and Automation.*
+
+- 🟢 **Current:** Linux Systems Administration & AWS Security Foundations.
+- 🟡 **Next Up:** Advanced Networking, Infrastructure Security, and Python Automation.
+- 🔵 **Long-term:** Elite Defense & Container Security.
 
 ---
-*Building a "Proof of Work" portfolio for 2031 Global Launch.
+*Building a high-value "Proof of Work" portfolio.*
