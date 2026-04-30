@@ -21,7 +21,7 @@
 - [🔐 Security Labs](./Security-Labs/MFA-Setup.md) - *Cloud Security, MFA, and "Zero Trust" projects.*
 - [🌐 Networking](./Networking/Labs.md) - *NVQ Level 4, CCNA Packet Tracer labs, and Firewalls.*
 - [🐍 Automation & Code](./Automation/Python-Boto3.md) - *Python (Boto3) scripts and Terraform (IaC).*
--- [🗣️ Technical English & Linguistics](./English/Study-Log.md) - *Grammar, Vocabulary, and Professional Writing.*
+- [🗣️ Technical English & Linguistics](./English/Study-Log.md) - *Grammar, Vocabulary, and Professional Writing.*
 
 
 
