@@ -1,0 +1,25 @@
+# 🗣️ English & Technical Linguistics Log
+This is where I document my progress in mastering English as a "Technical Operating System" for my global career.
+
+### 📚 Course Progress & Academic Path
+*Tracking my journey from foundations to professional fluency.*
+
+- ✅ **English Flyers (A2):** Initial foundations completed via [Udemy](https://udemy.com).
+- 🔵 **Cambridge PET (B1):** Current focus on Grammar, Vocabulary, and Speaking at [ESOFT Kiribathgoda](https://esoft.lk).
+- 🔜 **English for School Leavers:** Advanced professional foundations at [IHRA (University of Colombo)](https://cmb.ac.lk).
+- ➕ **Additional Training:** New certifications and short courses will be documented here as I progress.
+
+---
+
+### 📝 Grammar & Vocabulary Notes
+*Notes on sentence structure, professional terms, and linguistics rules.*
+
+#### 🛠️ Grammar in Practice
+- (Example: Documenting "Conditionals" or "Passive Voice" as you learn them at ESOFT).
+
+#### 📖 Technical Vocabulary
+- (Example: Words like "Implementation," "Redundancy," and "Authentication").
+
+---
+### ✍️ Professional Writing Samples
+*Drafts of emails, reports, and technical summaries.*
