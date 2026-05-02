@@ -11,15 +11,34 @@ This is where I document my progress in mastering English as a "Technical Operat
 
 ---
 
-### 📝 Grammar & Vocabulary Notes
-*Notes on sentence structure, professional terms, and linguistics rules.*
+## 📝 Grammar & Vocabulary Notes
 
-#### 🛠️ Grammar in Practice
+------------------------------
+#### 📅 Update: May 2, 2026
+Focus: Cambridge PET Course - Day 1 @ IIT
+
+#### 💡 What I Learned Today
+
+* Topic: The fundamental building blocks of sentences: nouns, verbs, and connectors.
+* Key Takeaway: Connectors are the "glue" that turn simple phrases into professional, flowing sentences.
+
+#### 🛠️ Hands-on Actions / Commands
+
+Nouns & Verbs: Identifying the "who" and the "action" to ensure subject-verb agreement.
+
+* Connectors: Using words like however, therefore, and moreover to link ideas logically.
+
+#### 📝 My Thoughts / Challenges
+
+It was pretty easy to be honest
+
+
+## 🛠️ Grammar in Practice
 - (Example: Documenting "Conditionals" or "Passive Voice" as you learn them at ESOFT).
 
-#### 📖 Technical Vocabulary
+## 📖 Technical Vocabulary
 - (Example: Words like "Implementation," "Redundancy," and "Authentication").
 
 ---
-### ✍️ Professional Writing Samples
+## ✍️ Professional Writing Samples
 *Drafts of emails, reports, and technical summaries.*
