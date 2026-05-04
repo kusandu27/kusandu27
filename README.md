@@ -17,7 +17,7 @@
 | [Excel in an Hour](./Certificates/Excel_Cert.pdf) | GoSkills | April 2026 |
 
 ### 🛠️ Hands-on Progress & Extra Learning
-- [🐧 Linux & Scripting](./Linux/CheatSheet.md) - *Foundations, Advanced (SLIIT), and Bash Automation.*
+- [🐧 Linux & Scripting](./Linux/CheatSheet.md) - *Foundations, Advanced, and Bash Automation.*
 - [🔐 Security Labs](./Security-Labs/MFA-Setup.md) - *Cloud Security, MFA, and "Zero Trust" projects.*
 - [🌐 Networking](./Networking/Labs.md) - *NVQ Level 4, CCNA Packet Tracer labs, and Firewalls.*
 - [🐍 Automation & Code](./Automation/Python-Boto3.md) - *Python (Boto3) scripts and Terraform (IaC).*
