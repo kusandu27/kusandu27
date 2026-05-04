@@ -41,4 +41,11 @@ It was pretty easy to be honest
 
 ---
 ## ✍️ Professional Writing Samples
-*Drafts of emails, reports, and technical summaries.*
+
+[May 3, 2026] PET Writing Task: Invitation Email
+
+Context: Cambridge PET Class @ IIT
+
+Draft:
+
+
