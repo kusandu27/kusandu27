@@ -28,8 +28,8 @@
 ### 🎯 Learning Goals
 *I am currently building a deep foundation in Cloud Security with a focus on Defense and Automation.*
 
-- 🟢 **Current:** Linux Systems Administration & AWS Security Foundations.
-- 🟡 **Next Up:** Advanced Networking, Infrastructure Security, and Python Automation.
+- 🟢 **Current:** Introduction to Linux & AWS Security Foundations (Udemy)Cambridge PET English (ESOFT Metro Campus)
+- 🟡 **Next Up**:NVQ Level 4 Networking (VTA/NAITA)Linux Network Administrator (WinSYS City Campus)
 - 🔵 **Long-term:** Elite Defense & Container Security.
 
 ---
