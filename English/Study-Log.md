@@ -46,6 +46,7 @@ It was pretty easy to be honest
 
 Context: Cambridge PET Class @ IIT
 
-Draft:
+Draft: ![PET Invitation Draft](./Writing-Drafts/pet-invitation-draft-03-05-26.jpeg)
+
 
 
