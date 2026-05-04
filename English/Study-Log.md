@@ -42,7 +42,7 @@ It was pretty easy to be honest
 ---
 ## ✍️ Professional Writing Samples
 
-[May 3, 2026] PET Writing Task: Invitation Email
+[May 3, 2026] PET Writing Task: Invitation 
 
 Context: Cambridge PET Class @ IIT
 
