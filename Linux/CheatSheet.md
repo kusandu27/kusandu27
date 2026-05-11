@@ -27,5 +27,9 @@
   [Open Folder](./Linux%20Mastery%20-%20Master%20the%20Linux%20Command%20Line%20(Notes)/Section%206/)
 
 ---
+### 🎓 Course Certification
+[View Completed Certificate](../Certificates/Linux%20Mastery_%20Master%20the%20Linux%20Command%20Line%20in%2011.5%20Hours%20Certificate.jpg)
+
+---
 
 
