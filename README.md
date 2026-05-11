@@ -15,6 +15,8 @@
 | [AWS Clean Rooms](./Certificates/AWS_Clean_Rooms.pdf) | **AWS** | April 2026 |
 | [English Flyers (A2)](./Certificates/English_Flyers.jpg) | Udemy | April 2026 |
 | [Excel in an Hour](./Certificates/Excel_Cert.pdf) | GoSkills | April 2026 |
+| [Linux Mastery](Certificates/Linux%20Mastery_%20Master%20the%20Linux%20Command%20Line%20in%2011.5%20Hours%20Certificate.jpg) | Udemy | May 2026 |
+
 
 ### 🛠️ Hands-on Progress & Extra Learning
 - [🐧 Linux & Scripting](./Linux/CheatSheet.md) - *Foundations, Advanced, and Bash Automation.*
