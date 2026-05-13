@@ -14,7 +14,8 @@ This is where I document my progress in mastering English as a "Technical Operat
 ## 📝 Grammar & Vocabulary Notes
 
 ------------------------------
-#### 📅 Update: May 2, 2026
+### 📅 Update: May 2, 2026
+
 Focus: Cambridge PET Course - Day 1 @ IIT
 
 #### 💡 What I Learned Today
@@ -32,11 +33,10 @@ Nouns & Verbs: Identifying the "who" and the "action" to ensure subject-verb agr
 
 It was pretty easy to be honest
 
-
-## 🛠️ Grammar in Practice
+#### 🛠️ Grammar in Practice
 - (Example: Documenting "Conditionals" or "Passive Voice" as you learn them at ESOFT).
 
-## 📖 Technical Vocabulary
+#### 📖 Technical Vocabulary
 - (Example: Words like "Implementation," "Redundancy," and "Authentication").
 
 ---
@@ -47,6 +47,68 @@ It was pretty easy to be honest
 Context: Cambridge PET Class @ IIT
 
 Draft: ![PET Invitation Draft](./Writing-Drafts/pet-invitation-draft-03-05-26.jpeg)
+
+
+## Grammar & Vocabulary Notes
+
+### Update: May 10, 2026
+
+Focus: Cambridge PET Course @ ESOFT
+
+#### What I Learned Today
+
+* Topic: Narrative sequencing, memory recall, and structured composition.
+* Key Takeaway: Collaborative storytelling builds real-time sentence construction and active listening skills.
+
+#### Hands-on Actions / Commands
+
+* Story Chain: Repeating a growing scenario starting with "Me and my friends are on our way to school" and adding one cohesive sentence.
+
+#### My Thoughts / Challenges
+
+It was challenging to memorize every classmate's sentence while planning my own addition.
+
+#### Grammar in Practice
+
+* Practiced narrative tenses like Past Simple and Past Continuous to keep story events in chronological order.
+
+#### Technical Vocabulary
+
+* Words like "Sequence," "Cohesion," "Narrative," and "Composition."
+
+---
+
+## Professional Writing Samples
+
+### [May 10, 2026] PET Writing Task: Essay
+
+Context: Cambridge PET Class @ ESOFT
+Draft:
+
+#### Why Junk Food is Bad for You
+
+Eating junk food has become a common habit due to convenience and taste. However, consuming these highly processed items regularly poses severe risks to long-term health. Junk food is typically loaded with high amounts of sugar, unhealthy fats, and sodium, while completely lacking essential nutrients like vitamins, minerals, and fiber.
+
+When you eat these meals frequently, they cause rapid spikes in blood sugar. This process leads to constant energy crashes and increased cravings throughout the day. Over time, a diet high in fast food contributes heavily to serious chronic health issues, including obesity, type 2 diabetes, and heart disease. Furthermore, the lack of proper nutrition impacts mental clarity, leaving you feeling tired and unfocused.
+
+In addition to physical harm, relying on fast food destroys healthy cooking habits. It also costs more money over time compared to preparing fresh food at home. Protecting your body requires choosing whole foods, such as fruits, vegetables, and lean proteins. In conclusion, cutting out junk food is the most effective choice to improve your energy, boost health, and ensure a vibrant life.
+
+### [May 10, 2026] PET Writing Task: Short Story
+
+Context: Cambridge PET Class @ ESOFT
+Draft:
+
+#### A Sudden Power Outage
+
+It was a quiet evening, and I was sitting at my desk finishing a school assignment due the next morning. The only sound in the room was the steady hum of my laptop. Suddenly, the entire house plunged into complete and pitch-black darkness, and my computer screen died instantly.
+
+A deep silence filled the room, making me realize how dependent I am on electricity. I carefully reached out into the dark, feeling around the cold surface of my desk until my fingers brushed against my smartphone. Turning on its flashlight, a bright beam of light cut through the shadows, casting long shapes against the walls.
+
+I walked downstairs to find my family gathering in the living room with old wax candles. We lit them one by one, filling the space with a warm, flickering glow. Instead of studying, we spent the next two hours talking, laughing, and playing board games together. When the lights finally flashed back on, I realized that the sudden power outage turned a stressful evening into a highly memorable family night.
+
+
+
+
 
 
 
