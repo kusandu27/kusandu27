@@ -106,6 +106,9 @@ A deep silence filled the room, making me realize how dependent I am on electric
 
 I walked downstairs to find my family gathering in the living room with old wax candles. We lit them one by one, filling the space with a warm, flickering glow. Instead of studying, we spent the next two hours talking, laughing, and playing board games together. When the lights finally flashed back on, I realized that the sudden power outage turned a stressful evening into a highly memorable family night.
 
+
+
+
 ### Update: May 17, 2026
 **Focus:** Cambridge PET Course @ ESOFT
 
