@@ -106,6 +106,25 @@ A deep silence filled the room, making me realize how dependent I am on electric
 
 I walked downstairs to find my family gathering in the living room with old wax candles. We lit them one by one, filling the space with a warm, flickering glow. Instead of studying, we spent the next two hours talking, laughing, and playing board games together. When the lights finally flashed back on, I realized that the sudden power outage turned a stressful evening into a highly memorable family night.
 
+### Update: May 17, 2026
+**Focus:** Cambridge PET Course @ ESOFT
+
+#### What I Learned Today
+* **Topic:** Spontaneous public speaking, improvisation techniques, and presentation under constraints.
+* **Key Takeaway:** Delivering speeches without notes forces rapid thinking and improves real-time sentence structuring.
+
+#### Hands-on Actions / Commands
+* **Current Events Speech:** Delivered a 2-minute speech on the Russian war, adapting and improvising content on the spot due to a strict "no notes" rule.
+* **Idol Speech:** Prepared and presented a 2-minute unscripted talk about William Shakespeare under the same constraint.
+
+#### My Thoughts / Challenges
+It was highly challenging to maintain a flow and construct logical points entirely from memory without relying on written cues.
+
+#### Grammar in Practice
+* Practiced spoken fluency, present and past tenses for ongoing geopolitical events, and descriptive adjectives for historical figures.
+
+#### Technical Vocabulary
+* Words like "Improvisation," "Spontaneous," "Extemporaneous," and "Fluency."
 
 
 
