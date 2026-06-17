@@ -131,6 +131,25 @@ It was highly challenging to maintain a flow and construct logical points entire
 
 
 
+### Update: June 14, 2026
+
+#### Focus: Cambridge PET Course @ ESOFT
+
+#### What I Learned Today
+* Topic: B1 PET Reading techniques (Parts 1–6) and structured guided writing prompts.
+* Key Takeaway: Matching user preferences to activity schedules and skimming long factual texts for history and biography details.
+
+#### Hands-on Actions / Commands
+* Mock Exam Practice: Solved exercises on short text messages, event matching, articles on Hypnotism and the Trojan War, a biography of Modigliani, and practice prompts for an email and a stress article. You can view the full paper here: [View June 14 Exam Paper](./Past-Papers/ESOFT-Cambridge-PET/June-14-Paper.pdf)
+
+#### My Thoughts / Challenges
+It was challenging to accurately place sentence options into the gapped text for the Trojan War story without breaking the chronological flow.
+
+#### Grammar in Practice
+* Practiced past narrative tenses for historical reading contexts and structural shifts between informal replies and discursive article prompts.
+
+#### Technical Vocabulary
+* Words like "Hypnotism," "Mesmerism," "Equestrian," "Spectacular," and "Influence".
 
 
 
