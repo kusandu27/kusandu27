@@ -153,4 +153,26 @@ It was challenging to accurately place sentence options into the gapped text for
 
 
 
+### Update: June 14, 2026
+
+#### Focus: Cambridge PET Course @ ESOFT
+
+#### What I Learned Today
+* Topic: English Grammar - Quantifiers (Scale of Amounts & Sentence Structures).
+* Key Takeaway: Pairing quantifiers based on noun counts, sentence polarity, and measuring sufficient limits like "enough" vs "plenty of".
+
+#### Hands-on Actions / Commands
+* Grammar Practice: Completed Activity 1 and Activity 2 focusing on sentence structure rules for "some" and "any" in questions and negatives.
+
+#### My Thoughts / Challenges
+Visualizing the exact threshold differences between a strictly sufficient amount ("enough") and an abundant amount that exceeds the baseline limit ("plenty of").
+
+#### Grammar in Practice
+* Applied "some" for affirmative clauses and cake-baking requests, while using "any" for questions about siblings, fridge water, and negative milk statements.
+* Scaled quantities by context: Large ("much"), Small ("a few"), Undefined ("some"), and Sufficient ("enough" or "plenty of").
+
+#### Technical Vocabulary
+* Words like "Quantifiers," "Sufficient Amount," "Affirmative," "Baseline Limit," and "Abundance."
+
+
 
