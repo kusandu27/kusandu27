@@ -140,8 +140,7 @@ It was highly challenging to maintain a flow and construct logical points entire
 * Key Takeaway: Matching user preferences to activity schedules and skimming long factual texts for history and biography details.
 
 #### Hands-on Actions / Commands
-* Mock Exam Practice: Solved exercises on short text messages, event matching, articles on Hypnotism and the Trojan War, a biography of Modigliani, and practice prompts for an email and a stress article. You can view the full paper here: [View June 07 Exam Paper](./Past-Papers/ESOFT-Cambridge-PET/June-07-Paper.pdf)
-
+* Mock Exam Practice: Solved exercises on short text messages, event matching, articles on Hypnotism and the Trojan War, a biography of Modigliani, and practice prompts for an email and a stress article. 
 #### My Thoughts / Challenges
 It was challenging to accurately place sentence options into the gapped text for the Trojan War story without breaking the chronological flow.
 
