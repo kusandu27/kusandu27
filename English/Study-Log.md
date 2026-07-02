@@ -175,3 +175,58 @@ Visualizing the exact threshold differences between a strictly sufficient amount
 
 
 
+
+### 📅 Update: June 21, 2026
+
+**Focus:** Cambridge B1 PET Mock Examination Evaluation — Performance Log
+
+#### 📊 Examination Progress Report
+- **Overall Assessment Score:** 78.3%
+- **Testing Center:** ESOFT Metro Campus (Kiribathgoda Sunday Batch)
+- **Written Performance:** Email Response (5.5 / 6.0) | Article Essay (4.5 / 6.0)
+
+---
+
+#### 💡 What I Learned Today
+- **Topic:** Analytical review of Cambridge B1 level reading comprehension tasks, text restoration exercises, grammatical cloze tests, and target writing items.
+- **Key Takeaway:** Rushing during structural writing and grammar choice-selections introduces avoidable mistakes; implementing a strict final proofreading step is mandatory to catch homophone and spelling slips.
+
+---
+
+#### 🛠️ Hands-on Actions / Commands
+
+#### 📑 Reading & Language Skills Breakdown
+- `Part 01: Short Messages & Notices (Score: 3/4)` : Practiced decoding real-world context clues from everyday text messages, store relocation notices, family requests, coach emails, and restaurant ads.
+- `Part 02: Event Matching Profiles (Score: 4/5)` : Matched specific individual profiles (hobbies, age limits, schedules, technology restrictions) against weekend event listings like art galleries, shows, and festivals.
+- `Part 03: Informational Text - Hypnotism (Score: 5/5)` : Mastered detailed reading comprehension by analyzing a text about the history of Franz Mesmer, medical usage for pain relief, and breaking common misconceptions.
+- `Part 04: Story Cohesion - The Trojan War (Score: 5/5)` : Successfully rebuilt narrative flow in a gapped history text about the trick of the Trojan horse by identifying the correct contextual sentences.
+- `Part 05: Biographical Text Fill-In - Modigliani (Score: 1/5)` : Critical bottleneck area. Evaluated structural word choices within a short biography of an Italian painter, highlighting issues with quantifier collocations and verb agreement.
+- `Part 06: Personal Letter Open Fill-In - Home Changes (Score: 6/6)` : Achieved a perfect score writing missing grammar pieces (prepositions, perfect tense markers, relative phrases) inside an update letter about Bangkok.
+
+#### 📝 Part 07: Written Task (Email Response)
+- `Constraint Performance` : Completed under an aggressive **5-minute** operational limit.
+- `Score` : 5.5 / 6.0
+- `Task Context` : Formulating a response to Nina regarding Olivia's surprise farewell party.
+- `Identified Mistakes` : 
+  - **Spelling Shifts:** `wonderfu` ➔ *wonderful*, `hotal` ➔ *hotel*, `wew` ➔ *view*, `specil` ➔ *special*, `Emai` ➔ *Email*.
+  - **Proper Noun Formatting & Capitalization:** `colombo` ➔ *Colombo*, `Gole face hotal` ➔ *Galle Face Hotel*, and lowercase sentence starters (`she`).
+  - **Structural Repetition:** Dual-use of the exact phrase *"she will love it"* within the initial paragraph due to fast drafting.
+  - **Phrasal/Preposition Error:** Used the incorrect preposition pattern *“looking forward for”* instead of *“looking forward to”*.
+
+#### 📝 Part 08: Written Task (Article Essay)
+- `Topic Focus` : Young People and Stress
+- `Score` : 4.5 / 6.0
+- `Task Context` : Drafting an essay layout detailing the causes of stress among youth, advice sources, and relaxation techniques.
+- `Identified Mistakes` : 
+  - **Core Homophone Confusion:** Systematic misuse of the place adverb `there` in place of the possessive determiner `their` (*there future*, *there point of view*, *there own perants*). Misused `there` for the contracted pronoun-verb `they're` (*there new to many things*).
+  - **Spelling Shifts:** `commen` ➔ *common*, `amon/amaung` ➔ *among*, `effact` ➔ *affect*, `importent` ➔ *important*, `perants` ➔ *parents*, `foolled` ➔ *fooled*, `miss guide` ➔ *misguide*, `relex` ➔ *relax*, `healty` ➔ *healthy*.
+  - **Comparative Syntax:** Misused the time-marker `then` instead of the comparison conjunction `than` (*"harder for them then most adults"*).
+  - **Noun Countability Error:** Omitted singular indefinite article or plural inflection on object noun (*"reading book"* ➔ *reading a book* or *reading books*).
+
+---
+
+#### 📝 My Thoughts / Challenges
+- Part 5 (the Modigliani biography text) was highly penalizing because I selected words based on immediate sound rather than strict parts of speech or collocations. I need to intentionally study how prepositions bind to specific quantities and time nouns.
+- Rushing through writing elements under stress leads to muscle-memory slip ups like replacing *their* with *there*. I must protect the final two minutes of my exam time purely for spelling, capitalization, and grammar sweeps.
+
+
