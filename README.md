@@ -1,10 +1,11 @@
 # Hi, I'm Kusandu 👋
 **Assistant IT at Nuwani Constructions** | Future Cloud Security Engineer 🛡️
 
-### 🚀 Phase 1: Foundations (Active)
-- 🎓 **In-Person:** Cambridge PET English at [ESOFT Kiribathgoda](https://esoft.lk)
-- 💼 **Job:** Managing IT operations at Nuwani Constructions HQ.
-- 🐧 **Current Focus:** Master Linux Fundamentals & AWS Cloud Security.
+## 📦 Phase 1: Foundations (Active)
+
+- 🗣️ **In-Person Language:** Cambridge English PET at [ESOFT Metro Campus](Monday Schedule)
+- 🎓 **Academic & Core Tracks:** Qualifi Level 4 & 5 Extended Diploma in Networking & Cyber Security at [WinSYS Networks](Sunday Schedule)
+- 🐧 **Current Focus:** Core Infrastructure, Multi-Vendor Cloud Architecture, and Practical Systems Engineering
 
 ### 📜 Verified Certificates & Training
 *Continuous learning path - more certifications added regularly.*
@@ -19,19 +20,19 @@
 
 
 ### 🛠️ Hands-on Progress & Extra Learning
-- [🐧 Linux & Scripting](./Linux/CheatSheet.md) - *Foundations, Advanced, and Bash Automation.*
-- [🔐 Security Labs](./Security-Labs/MFA-Setup.md) - *Cloud Security, MFA, and "Zero Trust" projects.*
-- [🌐 Networking](./Networking/Labs.md) - *NVQ Level 4, CCNA Packet Tracer labs, and Firewalls.*
-- [🐍 Automation & Code](./Automation/Python-Boto3.md) - *Python (Boto3) scripts and Terraform (IaC).*
+- [🐧 Linux & Scripting](./Linux/CheatSheet.md) - *Systems foundations, advanced multi-user setup, and automated Bash scripting workflows.*
+- [🔐 Security Labs](./Security-Labs/MFA-Setup.md) - *Defensive cloud configurations, Multi-Factor Authentication (MFA), and "Zero Trust" infrastructure rules.*
+- [🌐 Networking](./Networking/Labs.md) - *Core data communication architectures, routing protocols, Cisco CCNA Packet Tracer labs, and network firewalls..*
+- [🐍 Automation & Code](./Automation/Python-Boto3.md) - *Multi-cloud automation utilizing Python (Boto3 SDK) and infrastructure provisioning via Terraform (IaC)*
 - [🗣️ Technical English & Linguistics](./English/Study-Log.md) - *Grammar, Vocabulary, and Professional Writing.*
 
 
 
 ### 🎯 Learning Goals
-*I am currently building a deep foundation in Cloud Security with a focus on Defense and Automation.*
+I am currently building a deep operational foundation in Cloud Security with a focus on enterprise defense and automated engineering principles.
 
-- 🟢 **Current:**  AWS Security Foundations (Udemy) , Cambridge PET English (ESOFT Metro Campus)
-
+- 🟢 **Current:** Cambridge English PET Preparation (Active @ ESOFT Metro Campus)
+- 🚀 **Upcoming:** Qualifi Level 4/5 Extended Diploma Program (Commencing July 5, 2026 @ WinSYS Networks)
 
 ---
 *Building a high-value "Proof of Work" portfolio.*
