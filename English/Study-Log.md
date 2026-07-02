@@ -230,3 +230,40 @@ Visualizing the exact threshold differences between a strictly sufficient amount
 - Rushing through writing elements under stress leads to muscle-memory slip ups like replacing *their* with *there*. I must protect the final two minutes of my exam time purely for spelling, capitalization, and grammar sweeps.
 
 
+### 📅 Update: June 28, 2026
+**Focus:** Cambridge B1 PET Speaking Examination — Interview & Discussion Module
+
+#### 📊 Examination Progress Report
+- **Assessment Type:** Random Pair Interview (Simulated Speaking Parts 1 & 2)
+- **Peer Performance Contrast:** Outperformed partner on length of response, lexical resource, and topic development.
+- **Key Challenge:** High physiological anxiety causing a minor fluency stutter in the final segment.
+
+---
+
+#### 💡 What I Learned Today
+- **Topic:** Spontaneous discourse generation under pressure regarding sociolinguistic biases and modern digital safety risks for older demographics.
+- **Key Takeaway:** Linguistic ability is strong enough to articulate complex social arguments on the spot, but stress-induced anxiety impacts physical delivery (stuttering) toward the end. Managing breathing patterns is crucial to maintaining speech consistency when nerves kick in.
+
+---
+
+#### 🛠️ Hands-on Actions / Commands
+
+#### 🗣️ Interview Tasks & Prompt Breakdown
+- `Task 01: Personal Introduction` : Executed a fluid, error-free introduction establishing basic background information and pacing.
+- `Task 02: Sociolinguistic Bias Prompt` : 
+  - **Prompt:** Evaluated the societal stereotype that non-English speakers are less educated or less refined.
+  - **Delivered Argument:** Debunked the language-status bias. Argued that language proficiency does not equate to intelligence, highlighting that a monolingual Sinhala speaker can easily possess higher educational credentials than an English speaker.
+- `Task 03: Digital Literacy & Security Prompt` : 
+  - **Prompt:** Addressed the issue of older adults mismanaging social media platforms and accidentally leaking personal information.
+  - **Delivered Solutions:** Proposed user-interface (UI) optimizations for accessibility, simplified application guidance layouts, and structured intergenerational digital safety mentoring.
+
+#### 🔍 Identified Delivery & Mechanical Slippage
+- **Fluency Drop:** Sustained high output throughout the prompts but encountered a brief stuttering block during the final stretch due to a spike in anxiety.
+- **Grammar & Lexical Choices Used:** Maintained complex structural ideas (comparatives, conditional solutions), avoiding the minimal-response trap my partner faced.
+
+---
+
+#### 📝 My Thoughts / Challenges
+- **Anxiety vs. Competence:** The final stutter was entirely a physical symptom of anxiety, not a lack of vocabulary or knowledge. I had the ideas ready but my breathing got away from me. I need to practice speaking slower when my heart rate increases.
+- **Peer Dynamic:** Being paired with a student who gave very brief answers forced me to carry the weight of the conversation. While this naturally showed my superior communication range, I must make sure I don't let a partner's quietness accelerate my own nervousness.
+
