@@ -267,3 +267,14 @@ Visualizing the exact threshold differences between a strictly sufficient amount
 - **Anxiety vs. Competence:** The final stutter was entirely a physical symptom of anxiety, not a lack of vocabulary or knowledge. I had the ideas ready but my breathing got away from me. I need to practice speaking slower when my heart rate increases.
 - **Peer Dynamic:** Being paired with a student who gave very brief answers forced me to carry the weight of the conversation. While this naturally showed my superior communication range, I must make sure I don't let a partner's quietness accelerate my own nervousness.
 
+
+### 📅 Update: September 02, 2026
+
+ **Focus: Reading Comprehension — Story Writing and Question-Answer Generation**
+
+#### 💡 What I Learned Today
+
+* Topic: Creating narrative stories followed by targeting specific comprehension questions and answers.
+* Key Takeaway: Completed two structured reading modules focusing on factory engineering and sci-fi narratives. The complete story and question-and-answer document can be reviewed here:[2026 sept 2.docx](Writing-Drafts/2026%20sept%202.docx)
+
+
