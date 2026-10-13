@@ -274,7 +274,7 @@ Visualizing the exact threshold differences between a strictly sufficient amount
 
 #### 💡 What I Learned Today
 
-* Topic: Creating narrative stories followed by targeting specific comprehension questions and answers.
-* Key Takeaway: Completed two structured reading modules focusing on factory engineering and sci-fi narratives. The complete story and question-and-answer document can be reviewed here:[2026 sept 2.docx](Writing-Drafts/2026%20sept%202.docx)
+* **Topic:** Creating narrative stories followed by targeting specific comprehension questions and answers.
+* **Key Takeaway**: Completed two structured reading modules focusing on factory engineering and sci-fi narratives. The complete story and question-and-answer document can be reviewed here:[2026 sept 2.docx](Writing-Drafts/2026%20sept%202.docx)
 
 
