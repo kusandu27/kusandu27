@@ -31,8 +31,10 @@
 ### 🎯 Learning Goals
 I am currently building a deep operational foundation in Cloud Security with a focus on enterprise defense and automated engineering principles.
 
-- 🟢 **Current:** Cambridge English PET Preparation (Active @ ESOFT Metro Campus)
-                  Qualifi Level 4/5 Extended Diploma Program ( @ WinSYS Networks)
+-🟢 **Current Studies**
+* **Cambridge English PET Preparation** — Active @ ESOFT Metro Campus
+* **Qualifi Level 4/5 Extended Diploma Program** — Active @ WinSYS Networks
+
 
 ---
 *Building a high-value "Proof of Work" portfolio.*
